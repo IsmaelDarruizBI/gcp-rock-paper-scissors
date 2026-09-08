@@ -1,0 +1,25 @@
+{
+  "name": "gcp-rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "Proof of Concept application to test an end-to-end deployment using Google Cloud Platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmaelDarruizBI/gcp-rock-paper-scissors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IsmaelDarruizBI/gcp-rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/IsmaelDarruizBI/gcp-rock-paper-scissors#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
