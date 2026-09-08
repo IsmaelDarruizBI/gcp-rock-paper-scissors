@@ -4,7 +4,6 @@
   "description": "Proof of Concept application to test an end-to-end deployment using Google Cloud Platform.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/server.js"
   },
   "repository": {
