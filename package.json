@@ -2,7 +2,7 @@
   "name": "gcp-rock-paper-scissors",
   "version": "1.0.0",
   "description": "Proof of Concept application to test an end-to-end deployment using Google Cloud Platform.",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js"
   },
